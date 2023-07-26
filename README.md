@@ -2,7 +2,7 @@
  <div>
 <h1 align="left">Hi 👋, I'm Adil Rana</h1>
  <h3 align="left">A passionate Full-Stack developer from India</h3>
-  <h4 align="left">Software professional with expertise in HTML, CSS, JavaScript, React and experienced in solving more than 300+ Dsa problems. Looking forward to being a part of an organization that allows constant learning and development of my technical and management skills. Experienced in working on various projects through remote collaboration.</h4>
+  <h4 align="left">Software professional with expertise in HTML, CSS, JavaScript, React, Next JS and experienced in solving more than 300+ DSA problems. Looking forward to being a part of an organization that allows constant learning and development of my technical and management skills. Experienced in working on various projects through remote collaboration.</h4>
  </div>
  <div>
   
@@ -16,9 +16,9 @@
 
 <p align="left"> <a href="https://twitter.com/adilrana03" target="blank"><img src="https://img.shields.io/twitter/follow/adilrana03?logo=twitter&style=for-the-badge" alt="adilrana03" /></a> </p>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **React, Next JS**
 
-- 💬 Ask me about **React, JavaScript, Java**
+- 💬 Ask me about **React, JavaScript, Node JS**
 
 - 📫 How to reach me **adilrana2014@gmail.com**
 
@@ -31,7 +31,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="70" height="70"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="70" height="70"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="70" height="70"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="70" height="70"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="70" height="70"/> </a> </p>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="70" height="70"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="70" height="70"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="70" height="70"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="70" height="70"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="70" height="70"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQGNK5wsLk8W5OUu4w6qnaL2mL4RelsWN4UQ&usqp=CAU" alt="react" width="70" height="70"/> </a> </p>
 
 
 

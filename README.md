@@ -16,7 +16,7 @@
 
 <p align="left"> <a href="https://twitter.com/adilrana03" target="blank"><img src="https://img.shields.io/twitter/follow/adilrana03?logo=twitter&style=for-the-badge" alt="adilrana03" /></a> </p>
 
-- 🌱 I’m currently learning **React, Next JS**
+- 🌱 I’m currently learning **React, Next JS, FireBase**
 
 - 💬 Ask me about **React, JavaScript, Node JS**
 

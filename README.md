@@ -22,13 +22,12 @@
   <a href="https://adilrana-admin-dashboard.netlify.app/">Admin Dashboard</a><br/>
   <a href="https://adilrana03-expense-tracker.netlify.app/">Expense Tracker</a><br/>
   <a href="zoomcarpro.netlify.app/">Zoom Car</a><br/>
-  <a href="https://ajio-clone-masaiproject.netlify.app/">Ajio Clone</a>
 
 
 
-- 🌱 I’m currently learning **React, Next JS, FireBase**
+- 🌱 I’m currently learning **Web3,Rust & Solidity**
 
-- 💬 Ask me about **React, JavaScript, Node JS**
+- 💬 Ask me about **Web3, React, JavaScript, Node JS**
 
 - 📫 How to reach me **adilrana2014@gmail.com**
 
